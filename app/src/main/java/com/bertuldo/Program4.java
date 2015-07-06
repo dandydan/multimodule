@@ -10,7 +10,7 @@ import com.bertuldo.Processor;
  
 public class Program4 {
     public static void main(String[] args) throws IOException{
-        String         filePath = "data.csv";
+        String         filePath = "app/src/main/resources/data.csv";
         Program4       mavenEx1 = new Program4();
 	Processor      processor= new Processor();
         Scanner        scanner  = new Scanner(System.in);
