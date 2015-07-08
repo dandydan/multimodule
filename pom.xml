@@ -5,7 +5,7 @@
   <artifactId>multimodule</artifactId>
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>multimodule</name>
+  <name>multimodule project</name>
   <properties>
     <opencsv-version>2.3</opencsv-version>
   </properties>
